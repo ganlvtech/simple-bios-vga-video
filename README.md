@@ -4,9 +4,9 @@ Legacy BIOS VGA 编程
 
 ## 上期视频内容
 
-上期视频 av441549245 介绍了 BIOS MBR 编程基础
+上期视频 [av441549245](https://www.bilibili.com/video/av441549245) 介绍了 BIOS MBR 编程基础
 
-介绍了 x86 实模式、BIOS 引导 MBR 丄0x7c00 内存地址、BIOS 中断调用
+介绍了 x86 实模式、BIOS 引导 MBR、0x7c00 内存地址、BIOS 中断调用
 
 介绍了段寄存器 ds
 
